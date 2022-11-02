@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pic4xiu
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning ai
-- 💞️ I’m looking to collaborate on ai
+- 🌱 I’m currently learning transformer
+- 💞️ I’m looking to collaborate on Adversarial Examples
 - 📫 How to reach me pic4xiu@163.com
 
 <!---
