@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pic4xiu
-- 👀 I’m interested in anything
 - 🌱 I’m currently learning Reverse
-- 💞️ I’m searching for like-minded people online
 - 📫 How to reach me pic4xiu@163.com
 
 <!---
