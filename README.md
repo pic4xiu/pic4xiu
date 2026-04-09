@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pic4xiu
-- 🌱 I’m currently learning Reverse
+- 🌱 I’m currently learning AI/Reverse
 - 📫 How to reach me pic4xiu@163.com
 
 <!---
