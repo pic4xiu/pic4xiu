@@ -17,5 +17,3 @@
 - ✉️ Email: pic4xiu@gmail.com
 
 ---
-
-![pic4xiu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pic4xiu&show_icons=true&theme=tokyonight&hide_border=true)
